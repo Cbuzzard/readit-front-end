@@ -1,0 +1,9 @@
+#background {
+    height: 110vh;
+    width: 110vw;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url("../assets/background.png");
+    transition: all .2s ease-out;
+}
